@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Display Widgets
-Plugin URI: http://strategy11.com/display-widgets/
+Plugin URI: https://github.com/lukecav/display-widgets
 Description: Adds checkboxes to each widget to show or hide on site pages.
-Author: Strategy11
-Author URI: http://strategy11.com
+Author: Strategy11, lukecav
+Author URI: https://github.com/lukecav
 Version: 2.6.3.2
 Text Domain: display-widgets
 */
