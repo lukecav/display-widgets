@@ -4,7 +4,7 @@ Donate link: http://strategy11.com/donate/
 Tags: widget, widgets, admin, show, hide, page, sidebar, content, wpmu, wordpress, plugin, post, posts, content, filter, widget logic, widget context
 Requires at least: 4.6
 Tested up to: 4.8.1
-Stable tag: 2.05
+Stable tag: 2.6.3.2
 
 Simply hide widgets on specified pages. Adds checkboxes to each widget to either show or hide it on every site page.
 
@@ -14,9 +14,9 @@ Change your sidebar content for different pages, categories, custom taxonomies, 
 
 By default, 'Hide on checked pages' is selected with no boxes checked, so all current widgets will continue to display on all pages. 
 
-You can also find a development version where you can add translations and bug fixes on ([GitHub](https://github.com/Strategy11/display-widgets "GitHub"))
+You can also find a development version where you can add translations and bug fixes on ([GitHub](https://github.com/lukecav/display-widgets/ "GitHub"))
 
-http://strategy11.com/display-widgets/
+https://github.com/lukecav/display-widgets/
 
 = Translations =
 * Albanian ([Taulant](http://wporacle.com/ "Taulant"))
@@ -64,6 +64,9 @@ function dw_callback_trigger(){
 1. The extra widget options added.
 
 == Changelog ==
+= 2.6.3.2 =
+* Bump version and tested version of WordPress
+
 = 2.05 =
 * Add "Text Domain" to the plugin header to enable translations
 * Add Brazilian Portuguese translation
