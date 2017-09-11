@@ -1,4 +1,5 @@
 Display Widgets
 ===============
 
-You can download the Display Widgets plugin here: [http://wordpress.org/extend/plugins/display-widgets/](http://wordpress.org/extend/plugins/display-widgets/)
+Adds checkboxes to each widget to show or hide on site pages.
+https://github.com/lukecav/display-widgets
