@@ -5,7 +5,7 @@ Plugin URI: https://github.com/lukecav/display-widgets
 Description: Adds checkboxes to each widget to show or hide on site pages.
 Author: Strategy11, lukecav
 Author URI: https://github.com/lukecav
-Version: 2.6.3.2
+Version: 2.7
 Text Domain: display-widgets
 */
 
