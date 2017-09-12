@@ -68,6 +68,8 @@ function dw_callback_trigger(){
 This reverts all changes added by the 2.6 versions. This version is identical to version 2.05. Please upgrade immediately to remove code from the 2.6 series.
 
 == Changelog ==
+= 2.7 =
+* Revert all changes from 2.6 versions. This plugin is identical to 2.05, all changes have been backed out.
 
 = 2.05 =
 * Add "Text Domain" to the plugin header to enable translations
