@@ -63,9 +63,11 @@ function dw_callback_trigger(){
 
 1. The extra widget options added.
 
+== Upgrade Notice ==
+= 2.7 =
+This reverts all changes added by the 2.6 versions. This version is identical to version 2.05. Please upgrade immediately to remove code from the 2.6 series.
+
 == Changelog ==
-= 2.6.3.2 =
-* Bump version and tested version of WordPress
 
 = 2.05 =
 * Add "Text Domain" to the plugin header to enable translations
